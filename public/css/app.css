@@ -10696,3 +10696,9 @@ header .header-right ul li {
   margin: 0 20px;
 }
 
+footer {
+  height: 300px;
+  width: 100%;
+  background: darkblue;
+}
+
