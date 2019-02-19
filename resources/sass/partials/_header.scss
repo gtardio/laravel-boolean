@@ -1,0 +1,33 @@
+header {
+  height: 90px;
+  width: 100%;
+  border-bottom: 1px solid lightgrey;
+  .container {
+    height: 100%;
+  }
+  .header-left, .header-right {
+    float: left;
+    width: 50%;
+    height: 100%;
+  }
+  .header-left {
+    img {
+      margin-top: 10px;
+      height: 70px;
+    }
+  }
+  .header-right {
+    line-height: 90px;
+    ul {
+      list-style: none;
+      li {
+        display: inline-block;
+        text-align: right;
+        margin: 0 20px;
+        a {
+
+        }
+      }
+    }
+  }
+}
